@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A sophomore exploring the World of Computers 💻 🖥</h3>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=vishalj0501&label=Profile%20views&color=0e75b6&style=flat" alt="vishalj0501" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalj0501" alt="vishalj0501" /></a> </p>
 
 - 🌱 I’m currently learning **ML, WEB-Development**
