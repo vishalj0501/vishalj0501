@@ -16,14 +16,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishalj0501&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!-- 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Vishalj0501)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Vishalj0501)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
