@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A sophomore exploring the World of Computers 💻 🖥</h3>
+<h3 align="center">A sophomore seeking Challenges</h3>
 💫 About Me:
 🔭 I'm currently working on DL Projects and Research.<br>🌱 I’m currently learning Computer Vision and Deep Learning.<br>💬 Ask me about Java, Python<br>⚡ Fun fact: I think I am funny :).
 
