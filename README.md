@@ -2,7 +2,7 @@
 <h3 align="center">A sophomore seeking Challenges</h3>
 💫 About Me:
 
-🔭 I'm currently working on Deep Learning Research.<br>🌱 I’m currently building Deep Learning Models.<br>💬 Ask me about Java, Python<br>⚡ Fun fact: I think I am funny :).
+🔭 I'm currently working on Deep Learning Research.<br>🌱 I’m currently building Deep Learning Models.<br>💬 Ask me about Java, Python<br>⚡ Fun fact: I speak English and Sarcasm :).
 
 
 ## 🌐 Socials:
